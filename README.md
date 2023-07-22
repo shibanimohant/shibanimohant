@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shibanimohant
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning HTML,CSS,JAVASCRIPT
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at github- https://github.com/shibanimohant
 
 <!---
