@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shibanimohanty
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning HTML,CSS,JAVASCRIPT
-- 📫 How to reach me at github- https://github.com/shibanimohanty
+- 📫 How to reach me at github- https://github.com/shibanimohant
 
 <!---
 shibanimohant/shibanimohant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
